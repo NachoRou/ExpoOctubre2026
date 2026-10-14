@@ -1,0 +1,367 @@
+{
+  "MACRO FCV Octubre 2026": {
+    "parent": "none",
+    "resource": "MACRO FCV Octubre 2026.glb",
+    "template": "T_nopannels_B.glb",
+    "Rafa Blanca 01": {
+      "resource": "/MACRO 37 WEB/Rafa Blanca 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[14.964,26.272,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #0 Rafa Blanca 01"
+    },
+    "Rafa Blanca 03": {
+      "resource": "/MACRO 37 WEB/Rafa Blanca 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[-14.970,-26.628,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #1 Rafa Blanca 03"
+    },
+    "Rafa Blanca 02": {
+      "resource": "/MACRO 37 WEB/Rafa Blanca 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[-3.995,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #2 Rafa Blanca 02"
+    },
+    "Amparo Fletes 03": {
+      "resource": "/MACRO 37 WEB/Amparo Fletes 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[11.964,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #3 Amparo Fletes 03"
+    },
+    "Amparo Fletes 01": {
+      "resource": "/MACRO 37 WEB/Amparo Fletes 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[4.087,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #4 Amparo Fletes 01"
+    },
+    "Amparo Fletes 02": {
+      "resource": "/MACRO 37 WEB/Amparo Fletes 02.jpg",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-11.942,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #5 Amparo Fletes 02"
+    },
+    "Carmen Medina 01": {
+      "resource": "/MACRO 37 WEB/Carmen Medina 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "120.00",
+      "location": "[-14.970,-22.487,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #6 Carmen Medina 01"
+    },
+    "Carmen Medina 02": {
+      "resource": "/MACRO 37 WEB/Carmen Medina 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "120.00",
+      "location": "[14.964,21.773,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #7 Carmen Medina 02"
+    },
+    "Carmen Medina 03": {
+      "resource": "/MACRO 37 WEB/Carmen Medina 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "120.00",
+      "location": "[-14.970,-18.345,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #8 Carmen Medina 03"
+    },
+    "Pilar Rudilla 01": {
+      "resource": "/MACRO 37 WEB/Pilar Rudilla 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[14.964,17.274,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #9 Pilar Rudilla 01"
+    },
+    "Pilar Rudilla 02": {
+      "resource": "/MACRO 37 WEB/Pilar Rudilla 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "120.00",
+      "location": "[-14.970,-14.203,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #10 Pilar Rudilla 02"
+    },
+    "Pilar Rudilla 03": {
+      "resource": "/MACRO 37 WEB/Pilar Rudilla 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[14.964,12.775,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #11 Pilar Rudilla 03"
+    },
+    "Vicente Genís 02": {
+      "resource": "/MACRO 37 WEB/Vicente Genís 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[-14.970,-10.061,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #12 Vicente Genís 02"
+    },
+    "Vicente Genís 03": {
+      "resource": "/MACRO 37 WEB/Vicente Genís 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "81.50",
+      "location": "[14.964,8.277,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #13 Vicente Genís 03"
+    },
+    "Vicente Genís 01": {
+      "resource": "/MACRO 37 WEB/Vicente Genís 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[-7.901,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #14 Vicente Genís 01"
+    },
+    "Francisco Climent 01": {
+      "resource": "/MACRO 37 WEB/Francisco Climent 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "83.00",
+      "location": "[8.058,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #15 Francisco Climent 01"
+    },
+    "Francisco Climent 03": {
+      "resource": "/MACRO 37 WEB/Francisco Climent 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.10",
+      "location": "[8.011,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #16 Francisco Climent 03"
+    },
+    "Francisco Climent 02": {
+      "resource": "/MACRO 37 WEB/Francisco Climent 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.60",
+      "location": "[-8.267,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #17 Francisco Climent 02"
+    },
+    "MªJosé Medina 03": {
+      "resource": "/MACRO 37 WEB/MªJosé Medina 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "95.50",
+      "location": "[-14.970,-5.919,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #18 MªJosé Medina 03"
+    },
+    "MªJosé Medina 02": {
+      "resource": "/MACRO 37 WEB/MªJosé Medina 02.jpg",
+      "resource_type": "image",
+      "width": "90.40",
+      "height": "120.00",
+      "location": "[14.964,4.086,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #19 MªJosé Medina 02"
+    },
+    "MªJosé Medina 01": {
+      "resource": "/MACRO 37 WEB/MªJosé Medina 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "92.90",
+      "location": "[-14.970,-1.777,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #20 MªJosé Medina 01"
+    },
+    "Manuel Aparisi 03": {
+      "resource": "/MACRO 37 WEB/Manuel Aparisi 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[14.964,-0.104,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #21 Manuel Aparisi 03"
+    },
+    "Manuel Aparisi 02": {
+      "resource": "/MACRO 37 WEB/Manuel Aparisi 02.jpg",
+      "resource_type": "image",
+      "width": "91.80",
+      "height": "120.00",
+      "location": "[-14.970,2.071,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #22 Manuel Aparisi 02"
+    },
+    "Manuel Aparisi 01": {
+      "resource": "/MACRO 37 WEB/Manuel Aparisi 01.jpg",
+      "resource_type": "image",
+      "width": "80.40",
+      "height": "120.00",
+      "location": "[14.964,-4.190,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #23 Manuel Aparisi 01"
+    },
+    "Ernesto Alonso 02": {
+      "resource": "/MACRO 37 WEB/Ernesto Alonso 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[-14.970,5.919,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #24 Ernesto Alonso 02"
+    },
+    "Ernesto Alonso 01": {
+      "resource": "/MACRO 37 WEB/Ernesto Alonso 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[14.964,-8.277,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #25 Ernesto Alonso 01"
+    },
+    "Ernesto Alonso 03": {
+      "resource": "/MACRO 37 WEB/Ernesto Alonso 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[-11.807,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #26 Ernesto Alonso 03"
+    },
+    "Fernando Gracia 01": {
+      "resource": "/MACRO 37 WEB/Fernando Gracia 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "120.00",
+      "location": "[4.152,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #27 Fernando Gracia 01"
+    },
+    "Fernando Gracia 02": {
+      "resource": "/MACRO 37 WEB/Fernando Gracia 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[-14.970,10.061,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #28 Fernando Gracia 02"
+    },
+    "Fernando Gracia 03": {
+      "resource": "/MACRO 37 WEB/Fernando Gracia 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[14.964,-12.775,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #29 Fernando Gracia 03"
+    },
+    "Eugenia Malea 03": {
+      "resource": "/MACRO 37 WEB/Eugenia Malea 03.jpg",
+      "resource_type": "image",
+      "width": "112.10",
+      "height": "120.00",
+      "location": "[11.853,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #30 Eugenia Malea 03"
+    },
+    "Eugenia Malea 02": {
+      "resource": "/MACRO 37 WEB/Eugenia Malea 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "98.40",
+      "location": "[-4.176,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #31 Eugenia Malea 02"
+    },
+    "Eugenia Malea 01": {
+      "resource": "/MACRO 37 WEB/Eugenia Malea 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "75.30",
+      "location": "[-14.970,14.203,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #32 Eugenia Malea 01"
+    },
+    "Nacho Rousaud 03": {
+      "resource": "/MACRO 37 WEB/Nacho Rousaud 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "78.30",
+      "location": "[14.964,-17.274,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #33 Nacho Rousaud 03"
+    },
+    "Nacho Rousaud 02": {
+      "resource": "/MACRO 37 WEB/Nacho Rousaud 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.10",
+      "location": "[-14.970,18.345,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #34 Nacho Rousaud 02"
+    },
+    "Nacho Rousaud 01": {
+      "resource": "/MACRO 37 WEB/Nacho Rousaud 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.20",
+      "location": "[14.964,-21.773,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #35 Nacho Rousaud 01"
+    },
+    "Miguel Barranco 03": {
+      "resource": "/MACRO 37 WEB/Miguel Barranco 03.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[-14.970,22.487,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #36 Miguel Barranco 03"
+    },
+    "Miguel Barranco 02": {
+      "resource": "/MACRO 37 WEB/Miguel Barranco 02.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "87.20",
+      "location": "[14.964,-26.272,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #37 Miguel Barranco 02"
+    },
+    "Miguel Barranco 01": {
+      "resource": "/MACRO 37 WEB/Miguel Barranco 01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[-14.970,26.628,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #38 Miguel Barranco 01"
+    }
+  },
+  "Technical": {
+    "ambientLight": 0.5,
+    "pointLight": 50,
+    "style": "modern",
+    "show_plaques": true,
+    "show_frames": true,
+    "skip_hub": true,
+    "description": "Exposición virtual Macro FCV Octubre 2026"
+  }
+}
